@@ -1,7 +1,7 @@
 // Crear una lista de contactos con datos predefinidos
-{nombre: 'Angel Herrrera'},
+{nombre: 'Daniel Gonzales'},
 let contactos = {
- {nombre: 'Candido Machado'},
+ {nombre: 'Jose Murillo'},
     {nombre: 'Arthur Sabillon'}
 };
    
